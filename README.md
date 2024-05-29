@@ -1,9 +1,21 @@
 <div align="center">
 <h1>
 ¡Muy buenas, 👾Soy Carlos Cancinos👾!<br>
-  
-![hagenbuch-aaron-hagenbuch](https://github.com/carloscancinos12/carloscancinos12/assets/61300585/1c818b56-a4df-411f-8b6b-e931038c44aa)<br>
 </h1>
+  
+![hagenbuch-aaron-hagenbuch](https://github.com/carloscancinos12/carloscancinos12/assets/61300585/1c818b56-a4df-411f-8b6b-e931038c44aa)
+
+¡Bienvenido a mi perfil de GitHub! <br>
+
+
+
+[![](https://visitcount.itsvg.in/api?id=carloscancinos12&icon=6&color=6)](https://visitcount.itsvg.in)
+</div>
+
+
+## ¿Quién soy? 🤔
+Soy un entusiasta de la programación con una curiosidad insaciable y una mente creativa. Desde que tengo memoria, siempre he estado fascinado por la forma en que la tecnología transforma nuestras vidas y cómo podemos utilizarla para crear cosas que, en el pasado, nunca hubiéramos imaginado!<br>
+
 <table align="center">
     <tr>
         <td>
@@ -41,16 +53,6 @@
         </td>
     </tr>
 </table>
- <br> Apasionado por la Programación, Videojuegos, Matemáticas y Física 🚀<br>¡Bienvenido a mi perfil de GitHub! <br>
-
-
-
-[![](https://visitcount.itsvg.in/api?id=carloscancinos12&icon=6&color=6)](https://visitcount.itsvg.in)
-</div><br>
-
-
-## ¿Quién soy? 🤔
-Soy un entusiasta de la programación con una curiosidad insaciable y una mente creativa. Desde que tengo memoria, siempre he estado fascinado por la forma en que la tecnología transforma nuestras vidas y cómo podemos utilizarla para crear cosas que, en el pasado, nunca hubiéramos imaginado!<br>
 
 ## ¿Qué me emociona?😲<br>
 * **🖥️Programación💾**: Disfruto muchísimo poniendo a prueba mis habilidades resolviendo problemas complejos y creando soluciones innovadoras con código.<br>
